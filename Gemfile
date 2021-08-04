@@ -7,7 +7,7 @@ gem 'rails', '4.2.8'
 gem 'pg','~> 0.15'
 gem 'milia','1.2'
 gem 'devise','~> 3.4'
-gem 'aws-sdk'
+gem 'aws-sdk', '2.1.36'
 gem 'stripe'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
